@@ -1,19 +1,21 @@
-//charan_0
+// charan_0
 
 #include <bits/stdc++.h>
 using namespace std;
 
 using ll = long long;
-const char nl='\n';
-const char spc=' ';
+const char nl = '\n';
+const char spc = ' ';
 
-int main(){
+int main() {
 
 	ios::sync_with_stdio(false);
 	cin.tie(nullptr);
 
 	int t;
-	cin>>t;
-	while(t--){}
+	cin >> t;
+	while (t--) {
+	}
 
-	return 0;}
+	return 0;
+}
